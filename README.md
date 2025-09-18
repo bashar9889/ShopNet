@@ -75,10 +75,5 @@ It allows multiple peers (clients) to **search, offer, and purchase items** thro
 
 ---
 
-## 📂 Repository Structure
-├── client/ # Client implementation
-├── server/ # Server implementation
-├── database.db # SQLite database (persistent state)
-├── README.md # Documentation
-└── report.pdf # Detailed design & implementation notes
+
 
